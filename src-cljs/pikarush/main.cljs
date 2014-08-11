@@ -12,8 +12,8 @@
    [goog.i18n.DateTimeParse :as DateTimeParse]))
 
 ;; evil dates have zero-indexed months
-(def start-date (goog/date.Date. 2014 1 1))
-(def end-date   (goog/date.Date. 2014 1 5))
+(def start-date (goog/date.Date. 2014 7 30))
+(def end-date   (goog/date.Date. 2014 8 6))
 (def rush-dates (goog/date.DateRange. start-date end-date))
 
 (defn vecify
@@ -117,10 +117,10 @@
   (doseq [elem (sel ".event")]
     (dommy/listen! elem :click (toggle-event-descr elem))))
 
-;; make it september 3 for testing
+;; make it september 1 for testing
 (defn time-machine []
-  (reset! today (goog/date.Date. 2013 8 3))
-  (reset! now (js/Date. 2013 8 3 19 30)))
+  (reset! today (goog/date.Date. 2014 8 1))
+  (reset! now (js/Date. 2014 8 1 19 30)))
 
 (def photos
   ["boat" "costume" "desi" "dinner" "fort"
@@ -142,4 +142,4 @@
   ;; here we go
   (tick!))
 
-(GET "events/spring2014.edn" {:handler init :format :edn})
+(GET "events/fall2014.edn" {:handler init :format :edn})
