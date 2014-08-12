@@ -238,4 +238,10 @@
  :date "09/05"
  :time  ["20:00","23:00"]}
 
+{:name "Dinner & a Show"
+ :location "Dining room, then Kresge Little Theather"
+ :description "Rush is technically over, but we would love to have you over for dinner and then go see MTG's production of Grease at Kresge. Some of our very own are in the show!"
+ :date "09/06"
+ :time  ["19:00","22:00"]}
+
 ]

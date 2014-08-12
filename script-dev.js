@@ -32908,7 +32908,7 @@ goog.require("dommy.attrs");
 goog.require("clojure.string");
 goog.require("ajax.core");
 pikarush.main.start_date = new goog.date.Date(2014, 7, 30);
-pikarush.main.end_date = new goog.date.Date(2014, 8, 5);
+pikarush.main.end_date = new goog.date.Date(2014, 8, 6);
 pikarush.main.rush_dates = new goog.date.DateRange(pikarush.main.start_date, pikarush.main.end_date);
 pikarush.main.vecify = function() {
   var vecify = null;
