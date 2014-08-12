@@ -23,7 +23,7 @@ def main():
 
 	infos = []
 	for row in rows:
-		info = "{:name \"%s\" \n :location \"%s\" \n :description \"%s\" \n :date \"%s\" \n :time  [\"%s\",\"%s\"]} \n \n" % row
+		info = "{:name \"%s\" \n :location \"%s\" \n :description \"%s\" \n :date \"0%s\" \n :time  [\"%s\",\"%s\"]} \n \n" % row
 		infos.append(info)
 
 	ff = open(writefile, 'w')

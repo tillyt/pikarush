@@ -1,4 +1,4 @@
- pikarush.calendar
+(ns pikarush.calendar
 (:require [clj-ical.format :as ical]
 [clojure.string :as str])
 (:import org.joda.time.DateTime))
@@ -6,7 +6,7 @@
 (defn map-to-int [v]
 (map (fn [n] (Integer. n))
 v))
-(def events (read-string (slurp "events/fall2014.edn")))
+(def events (read-string (slurp "events/spring2014.edn")))
 (defn ical-event [event]
 (with-out-str
 (ical/write-object
