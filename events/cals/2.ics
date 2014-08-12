@@ -1,10 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Murph Yurt Bean Traders
-DESCRIPTION:lounge twice indoors, gaining leguminous leverage in this well 
- rounded and easy to learn card game.  no skill required.  lack of skill pre
- ferred.
-DTSTART:20140201T220000Z
-DTEND:20140202T000000Z
+SUMMARY:Cocoa and Campfire
+DESCRIPTION:Drink fancy hot chocolate, warm your hands by a campfire, chill
+  on our roofdeck if the sky is clear. Festivities will begin after dinner.
+DTSTART:20140202T010000Z
+DTEND:20140202T030000Z
 END:VEVENT
 END:VCALENDAR
