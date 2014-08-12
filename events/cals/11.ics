@@ -1,8 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Cafe Lebanon Feast
-DESCRIPTION:Foods of the levant: falafel, salata, tahini, tabbouleh, and ma
- ybe baklava
+DESCRIPTION:Come to enjoy the classic foods of the Levant: falafel, salata,
+  tahini, tabbouleh, and baklava! Come any time before 7pm if you want to he
+ lp cook!
 DTSTART:20140831T230000Z
 DTEND:20140901T000000Z
 END:VEVENT

@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Sit around and make puns
-DESCRIPTION:Hopefully, this won't be a cat-astrophe.
+DESCRIPTION:Hopefully, this won't be a cat-astrophe ;)
 DTSTART:20140901T000000Z
 DTEND:20140901T010000Z
 END:VEVENT

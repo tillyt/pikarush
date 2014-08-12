@@ -2,8 +2,9 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Peaceable sailing in the Charles
 DESCRIPTION:Leave from pika at 12pm, or meet pikans at the MIT Sailing Pavi
- lion, across from Walker Memorial E50, at 12:30pm. Set sail in the sparklin
- g and pure waters of the Charles. This event is free! Must be able to swim.
+ lion (across from Walker Memorial E50) at 12:30pm. Set sail in the sparklin
+ g and pure waters of the Charles. (This event is free!) Must be able to swi
+ m.
 DTSTART:20140831T160000Z
 DTEND:20140831T190000Z
 END:VEVENT

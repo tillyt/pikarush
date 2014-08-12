@@ -2,7 +2,8 @@ BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Fancy Friday Feast
 DESCRIPTION:We have extra-special dinners on Fridays. Come share our table 
- with us. Celebrate the end of the first week of school.
+ with us. Celebrate the end of the first week of school! Come to pika before
+  7pm if you want to help cook!
 DTSTART:20140905T230000Z
 DTEND:20140906T000000Z
 END:VEVENT

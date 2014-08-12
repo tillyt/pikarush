@@ -1,7 +1,8 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Sushi Dinner
-DESCRIPTION:Eat your own (sushi)!
+DESCRIPTION:Eat your own (sushi)! Usually our most popular rush event of th
+ e week.
 DTSTART:20140903T230000Z
 DTEND:20140904T000000Z
 END:VEVENT

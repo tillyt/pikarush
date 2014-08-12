@@ -1,9 +1,11 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Garden!
-DESCRIPTION:Now you can make your bed and eat it, too. Come tuck some fall 
- plants under the sheets. Whisper good night to garlic, shallots, and other 
- beauties.
+DESCRIPTION:
+Now you can make your bed and eat it, too. Come tuck some fall
+  plants under the sheets. Whisper good night to garlic, shallots, and other
+  beauties. Harvest the holy single zucchini growing in our backyard since J
+ uly <3
 DTSTART:20140901T160000Z
 DTEND:20140901T180000Z
 END:VEVENT

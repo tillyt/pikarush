@@ -1,8 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Costume and Drag Dinner!
-DESCRIPTION:Get dressed up in our Outrageous Clothing. Get your makeup done
- . You shall look Fabulous.
+DESCRIPTION:Get dressed up in our Outrageous Clothing! Get your makeup done
+ ! You will look fabulous. Everyone is welcome at this dinner, dressed up or
+  not! Come by early if you want to help cook!
 DTSTART:20140904T230000Z
 DTEND:20140905T000000Z
 END:VEVENT

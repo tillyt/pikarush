@@ -1,7 +1,10 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Poker night!
-DESCRIPTION:Is your poker face good enough?
+DESCRIPTION:Is your poker face good enough? We will have a merry time playi
+ ng poker and trading chips. If you are a beginner or have never played befo
+ re, have no fear! Neither have we! Rules will be explained by seasoned play
+ ers.
 DTSTART:20140831T010000Z
 DTEND:20140831T030000Z
 END:VEVENT

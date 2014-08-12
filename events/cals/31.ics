@@ -1,8 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
 SUMMARY:Tea Blending & Consumption Party
-DESCRIPTION:Blend teas with pika's wonderful collection of herbs! Then, dri
- nk them right there on the spot. 
+DESCRIPTION:Blend teas with pika's wonderful collection of herbs! Pick some
+  aromatic leaves from the garden, if you want. Then, drink them right there
+  on the spot. 
 DTSTART:20140904T000000Z
 DTEND:20140904T030000Z
 END:VEVENT
