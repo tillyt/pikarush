@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Firestaff making
-DESCRIPTION:Learn how to build your own firestaff, a tradition dating back 
- to the Pikan Ancients of 1969
-DTSTART:20140202T220000Z
-DTEND:20140203T000000Z
+SUMMARY:High-altitude bean trading
+DESCRIPTION:This card game is too silly to be played at ground level.  Meet
+  in the round bean trading tent at 69 Chestnut street.
+DTSTART:20140830T220000Z
+DTEND:20140830T230000Z
 END:VEVENT
 END:VCALENDAR

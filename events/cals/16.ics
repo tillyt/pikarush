@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Textile Experimentation
+DESCRIPTION:Knitting, crocheting, embroidery, oh my! Express yourself with 
+ string. We will be screen printing too - bring your own article of clothing
+  if you want to screen print!
+DTSTART:20140901T180000Z
+DTEND:20140901T190000Z
+END:VEVENT
+END:VCALENDAR

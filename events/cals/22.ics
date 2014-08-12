@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Cool parks & free samples walk
+DESCRIPTION:Cambridge has some cool parks and some places to find free food
+ .
+DTSTART:20140902T160000Z
+DTEND:20140902T180000Z
+END:VEVENT
+END:VCALENDAR

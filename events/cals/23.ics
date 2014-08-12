@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Make ice cream
+DESCRIPTION:We have an ice cream maker. You love ice cream. This is the beg
+ inning of a beautiful friendship.
+DTSTART:20140902T190000Z
+DTEND:20140902T200000Z
+END:VEVENT
+END:VCALENDAR

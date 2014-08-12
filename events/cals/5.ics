@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Pika goes to WMBR
-DESCRIPTION:Your voice can be heard. Make an appearance on WMBR at 1 AM. Me
- et at pika at 12:30, or Walker Memorial at 12:50.
-DTSTART:20140203T053000Z
-DTEND:20140203T071500Z
+SUMMARY:Feast at our Table and Sleep in our Clover
+DESCRIPTION:Comforting vegan dinner, backyard napping, and John Denver sing
+ alongs.
+DTSTART:20140830T230000Z
+DTEND:20140831T000000Z
 END:VEVENT
 END:VCALENDAR

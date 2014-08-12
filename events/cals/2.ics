@@ -1,9 +1,10 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Cocoa and Campfire
-DESCRIPTION:Drink fancy hot chocolate, warm your hands by a campfire, chill
-  on our roofdeck if the sky is clear. Festivities will begin after dinner.
-DTSTART:20140202T010000Z
-DTEND:20140202T030000Z
+SUMMARY:pika's Glorious Cake Baking, Sculpture, Decorating 
+DESCRIPTION:We'll bake a cake or two, then use our minds and baking supplie
+ s to be creative and fool passerby by decorating it to look like our chicke
+ n Dread Pirate Roberts.
+DTSTART:20140830T180000Z
+DTEND:20140830T200000Z
 END:VEVENT
 END:VCALENDAR

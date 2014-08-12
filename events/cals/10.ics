@@ -1,9 +1,8 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Loose-Leaf Tea Party
-DESCRIPTION:Make your own revolutionary flavors of tea by combining an asso
- rtment of provided ingredients.
-DTSTART:20140205T010000Z
-DTEND:20140205T030000Z
+SUMMARY:Improv Theater Workshop
+DESCRIPTION:Bring your creativity.
+DTSTART:20140831T210000Z
+DTEND:20140831T230000Z
 END:VEVENT
 END:VCALENDAR
