@@ -1,9 +1,10 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Sushi Dinner
-DESCRIPTION:Eat your own (sushi)! Usually our most popular rush event of th
- e week.
-DTSTART:20140903T230000Z
-DTEND:20140904T000000Z
+SUMMARY:Roll your own sushi!
+DESCRIPTION:Roll your own (sushi)! No snacking before dinner time! We will 
+ provide all of the components: seasoned rice, seaweed, beautifully prepared
+  vegetables, and, perhaps, raw dead fish...
+DTSTART:20140903T210000Z
+DTEND:20140903T230000Z
 END:VEVENT
 END:VCALENDAR

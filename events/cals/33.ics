@@ -1,9 +1,8 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Poetry slam
-DESCRIPTION:Bring your favorite poetry books or your own poetry, or read so
- me of ours!
-DTSTART:20140904T010000Z
-DTEND:20140904T030000Z
+SUMMARY:Absurdist parlor games
+DESCRIPTION:Spin the cinderblock, This is not a pipe, and other classics.
+DTSTART:20140904T000000Z
+DTEND:20140904T010000Z
 END:VEVENT
 END:VCALENDAR

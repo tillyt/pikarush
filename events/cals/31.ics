@@ -1,10 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Tea Blending & Consumption Party
-DESCRIPTION:Blend teas with pika's wonderful collection of herbs! Pick some
-  aromatic leaves from the garden, if you want. Then, drink them right there
-  on the spot. 
-DTSTART:20140904T000000Z
-DTEND:20140904T030000Z
+SUMMARY:Sushi Dinner
+DESCRIPTION:Eat your own (sushi)! Usually our most popular rush event of th
+ e week.
+DTSTART:20140903T230000Z
+DTEND:20140904T000000Z
 END:VEVENT
 END:VCALENDAR
