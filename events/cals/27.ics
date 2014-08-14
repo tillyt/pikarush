@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Ristorante d'Italia Feast
-DESCRIPTION:Dinner! Simply speaking, an extravaganza of Italian food. Come 
- any time before 7pm if you want to help cook!
-DTSTART:20140902T230000Z
-DTEND:20140903T000000Z
+SUMMARY:Poetry slam
+DESCRIPTION:Bring your favorite poetry books or your own poetry, or read so
+ me of ours!
+DTSTART:20140903T010000Z
+DTEND:20140903T030000Z
 END:VEVENT
 END:VCALENDAR

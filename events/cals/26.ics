@@ -1,10 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Chicken care & chicken cuddling
-DESCRIPTION:pika is home to a flock of lovable hens. Come meet them and cud
- dle a real live chicken. Learn all about how to take care of chickens, and 
- if you're lucky, taste one of their wonderful eggs!
-DTSTART:20140902T220000Z
-DTEND:20140902T230000Z
+SUMMARY:Ristorante d'Italia Feast
+DESCRIPTION:Dinner! Simply speaking, an extravaganza of Italian food. Come 
+ any time before 7pm if you want to help cook!
+DTSTART:20140902T230000Z
+DTEND:20140903T000000Z
 END:VEVENT
 END:VCALENDAR

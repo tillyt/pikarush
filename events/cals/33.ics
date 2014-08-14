@@ -1,8 +1,10 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Absurdist parlor games
-DESCRIPTION:Spin the cinderblock, This is not a pipe, and other classics.
-DTSTART:20140904T000000Z
-DTEND:20140904T010000Z
+SUMMARY:Trick or treat at pika
+DESCRIPTION:Meet the friendly residents of pika, see what our unique rooms 
+ look like, and get hippie candy when you knock on each door! Scary costumes
+  provided.
+DTSTART:20140904T210000Z
+DTEND:20140904T230000Z
 END:VEVENT
 END:VCALENDAR

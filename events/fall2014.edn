@@ -1,248 +1,248 @@
-[{:name "Sourdough bread baking" 
- :location "Kitchen" 
- :description "Meet the Cousin from Ipswich, pika's ancestral community of wild yeast strains. This is a "starter," unique to each bakery and responsible for the lactic acid fermentation that gives the bread its sour taste. The bread should be out of the oven around 5:30pm, so stay for dinner!" 
- :date "08/30" 
- :time  ["12:00","13:00"]} 
- 
-{:name "Pickles" 
- :location "Kitchen" 
- :description "Pickles come in many flavors. Choose your own adventure. Many vegetables and vinegars offered. We will make savory pickles (carrots?), sweet pickles (pears?), spicy pickles (beets?), and whatever sounds good! Come back tomorrow to taste your creation." 
- :date "08/30" 
- :time  ["13:00","0:00"]} 
- 
-{:name "pika's Glorious Cake Baking, Sculpture, Decorating " 
- :location "Kitchen" 
- :description "We'll bake a cake or two, then use our minds and baking supplies to be creative and fool passerby by decorating it to look like our chicken Dread Pirate Roberts." 
- :date "08/30" 
- :time  ["14:00","16:00"]} 
- 
-{:name "Fermentation!" 
- :location "Dining room" 
- :description "Make natural carbonated beverages from berries and root vegetables. For example: ginger soda is as simple as grating ginger into sugar water and letting it sit long enough! We will make kombucha and kefir from SCOBYs (symbiotic colonies of bacteria and yeast). Come for the soda, stay for your intestinal tract's health." 
- :date "08/30" 
- :time  ["15:00","16:00"]} 
- 
-{:name "High-altitude bean trading" 
- :location "Back porch" 
- :description "This card game is too silly to be played at ground level.  Meet in the round bean trading tent at 69 Chestnut street." 
- :date "08/30" 
- :time  ["18:00","19:00"]} 
- 
-{:name "Feast at our Table and Sleep in our Clover" 
- :location "Dining room / Back yard" 
- :description "A comforting vegan dinner, a soothing nap in our backyard, and John Denver singalongs." 
- :date "08/30" 
- :time  ["19:00","20:00"]} 
- 
-{:name "Shoeblade and Forkapple" 
- :location "Murph" 
- :description "Ye of youthful vigor, test thy mettle by playing these noble sports of pikans of yore. No skill necessary." 
- :date "08/30" 
- :time  ["20:00","21:00"]} 
- 
-{:name "Poker night!" 
- :location "Murph" 
- :description "Is your poker face good enough? We will have a merry time playing poker and trading chips. If you are a beginner or have never played before, have no fear! Neither have we! Rules will be explained by seasoned players." 
- :date "08/30" 
- :time  ["21:00","23:00"]} 
- 
-{:name "Peaceable sailing in the Charles" 
- :location "Depart from pika / MIT Sailing Pavilion" 
- :description "Leave from pika at 12pm, or meet pikans at the MIT Sailing Pavilion (across from Walker Memorial E50) at 12:30pm. Set sail in the sparkling and pure waters of the Charles. (This event is free!) Must be able to swim." 
- :date "08/31" 
- :time  ["12:00","15:00"]} 
- 
-{:name "Summer Camp Games" 
- :location "Front yard garden" 
- :description "Ha, Yes Let's!, Screaming and Running, Farkle Barkle, SPUD, Wah!, Ninja, and many other silly camp games, taught by a real camp counselor. Where's your buddy?!" 
- :date "08/31" 
- :time  ["15:00","17:00"]} 
- 
-{:name "Improv Theater Workshop" 
- :location "Dining room" 
- :description "Bring your creativity." 
- :date "08/31" 
- :time  ["17:00","19:00"]} 
- 
-{:name "Cafe Lebanon Feast" 
- :location "Dining room" 
- :description "Come to enjoy the classic foods of the Levant: falafel, salata, tahini, tabbouleh, and baklava! Come any time before 7pm if you want to help cook!" 
- :date "08/31" 
- :time  ["19:00","20:00"]} 
- 
-{:name "Sit around and make puns" 
- :location "Murph" 
- :description "Hopefully, this won't be a cat-astrophe ;)" 
- :date "08/31" 
- :time  ["20:00","21:00"]} 
- 
-{:name "23.001: Intro to Hippie Stereotypes" 
- :location "Murph" 
- :description "We hear some people think we are hippies. Come decide for yourself. Shoes, clean hair, and private property optional." 
- :date "08/31" 
- :time  ["20:00","21:00"]} 
- 
-{:name "Anime Under The Stars" 
- :location "Back porch" 
- :description "I hear the youth of today like those newfangled Japanese animated movies. Perhaps you do too?" 
- :date "08/31" 
- :time  ["21:00","23:00"]} 
- 
-{:name "Garden!" 
- :location "Front yard garden" 
+[{:name "Sourdough bread baking"
+ :location "Kitchen"
+ :description "Meet the Cousin from Ipswich, pika's ancestral community of wild yeast strains. This is a "starter," unique to each bakery and responsible for the lactic acid fermentation that gives the bread its sour taste. The bread should be out of the oven around 5:30pm, so stay for dinner!"
+ :date "08/30"
+ :time  ["12:00","13:00"]}
+
+{:name "Pickles"
+ :location "Kitchen"
+ :description "Pickles come in many flavors. Choose your own adventure. Many vegetables and vinegars offered. We will make savory pickles (carrots?), sweet pickles (pears?), spicy pickles (beets?), and whatever sounds good! Come back tomorrow to taste your creation."
+ :date "08/30"
+ :time  ["13:00","0:00"]}
+
+{:name "pika's Glorious Cake Baking, Sculpture, Decorating "
+ :location "Kitchen"
+ :description "We'll bake a cake or two, then use our minds and baking supplies to be creative and fool passerby by decorating it to look like our chicken Dread Pirate Roberts."
+ :date "08/30"
+ :time  ["14:00","16:00"]}
+
+{:name "Fermentation!"
+ :location "Dining room"
+ :description "Make natural carbonated beverages from berries and root vegetables. For example: ginger soda is as simple as grating ginger into sugar water and letting it sit long enough! We will make kombucha and kefir from SCOBYs (symbiotic colonies of bacteria and yeast). Come for the soda, stay for your intestinal tract's health."
+ :date "08/30"
+ :time  ["15:00","16:00"]}
+
+{:name "High-altitude bean trading"
+ :location "Back porch"
+ :description "This card game is too silly to be played at ground level.  Meet in the round bean trading tent at 69 Chestnut street."
+ :date "08/30"
+ :time  ["18:00","19:00"]}
+
+{:name "Feast at our Table and Sleep in our Clover"
+ :location "Dining room / Back yard"
+ :description "A comforting vegan dinner, a soothing nap in our backyard, and John Denver singalongs."
+ :date "08/30"
+ :time  ["19:00","20:00"]}
+
+{:name "Shoeblade and Forkapple"
+ :location "Murph"
+ :description "Ye of youthful vigor, test thy mettle by playing these noble sports of pikans of yore. No skill necessary."
+ :date "08/30"
+ :time  ["20:00","21:00"]}
+
+{:name "Poker night!"
+ :location "Murph"
+ :description "Is your poker face good enough? We will have a merry time playing poker and trading chips. If you are a beginner or have never played before, have no fear! Neither have we! Rules will be explained by seasoned players."
+ :date "08/30"
+ :time  ["21:00","23:00"]}
+
+{:name "Peaceable sailing in the Charles"
+ :location "Depart from pika / MIT Sailing Pavilion"
+ :description "Leave from pika at 12pm, or meet pikans at the MIT Sailing Pavilion (across from Walker Memorial E50) at 12:30pm. Set sail in the sparkling and pure waters of the Charles. (This event is free!) Must be able to swim."
+ :date "08/31"
+ :time  ["12:00","15:00"]}
+
+{:name "Summer Camp Games"
+ :location "Front yard garden"
+ :description "Ha, Yes Let's!, Screaming and Running, Farkle Barkle, SPUD, Wah!, Ninja, and many other silly camp games, taught by a real camp counselor. Where's your buddy?!"
+ :date "08/31"
+ :time  ["15:00","17:00"]}
+
+{:name "Improv Theater Workshop"
+ :location "Dining room"
+ :description "Bring your creativity."
+ :date "08/31"
+ :time  ["17:00","19:00"]}
+
+{:name "Cafe Lebanon Feast"
+ :location "Dining room"
+ :description "Come to enjoy the classic foods of the Levant: falafel, salata, tahini, tabbouleh, and baklava! Come any time before 7pm if you want to help cook!"
+ :date "08/31"
+ :time  ["19:00","20:00"]}
+
+{:name "Sit around and make puns"
+ :location "Murph"
+ :description "Hopefully, this won't be a cat-astrophe ;)"
+ :date "08/31"
+ :time  ["20:00","21:00"]}
+
+{:name "23.001: Intro to Hippie Stereotypes"
+ :location "Murph"
+ :description "We hear some people think we are hippies. Come decide for yourself. Shoes, clean hair, and private property optional."
+ :date "08/31"
+ :time  ["20:00","21:00"]}
+
+{:name "Anime Under The Stars"
+ :location "Back porch"
+ :description "I hear the youth of today like those newfangled Japanese animated movies. Perhaps you do too?"
+ :date "08/31"
+ :time  ["21:00","23:00"]}
+
+{:name "Garden!"
+ :location "Front yard garden"
  :description "
-Now you can make your bed and eat it, too. Come tuck some fall plants under the sheets. Whisper good night to garlic, shallots, and other beauties. Harvest the holy single zucchini growing in our backyard since July <3" 
- :date "09/01" 
- :time  ["12:00","14:00"]} 
- 
-{:name "Textile Experimentation" 
- :location "Dining room / Back porch" 
- :description "Knitting, crocheting, embroidery, oh my! Express yourself with string. We will be screen printing too - bring your own article of clothing if you want to screen print!" 
- :date "09/01" 
- :time  ["14:00","15:00"]} 
- 
-{:name "Firestaff making" 
- :location "Back porch" 
- :description "Patience you must have, my young Padawan. Learn how to build your very own firestaff!" 
- :date "09/01" 
- :time  ["15:00","19:00"]} 
- 
-{:name "Spoon carving" 
- :location "Back porch" 
- :description "Carve a wooden spoon." 
- :date "09/01" 
- :time  ["17:00","19:00"]} 
- 
-{:name "Chinese Stir Fry Feast" 
- :location "Dining room" 
- :description "Dinner! Come any time before 7pm if you want to help cook!" 
- :date "09/01" 
- :time  ["19:00","20:00"]} 
- 
-{:name "Jam session!" 
- :location "Murph" 
- :description "Bring your own instrument (BYOI) encouraged! Or, you can use some of ours! Sit back or lean forward and make some beautiful sounds together. No experience necessary." 
- :date "09/01" 
- :time  ["20:00","21:00"]} 
- 
-{:name "pikans on the Radio!" 
- :location "Depart from pika / WMBR Station" 
- :description "Come explore the wide world of college radio with your favorite cuddly pikans! Learn how to use a mixing board or just hear your voice/music on the air. Leave from pika at 9pm or meet us at WMBR in E50 at 9:45pm!" 
- :date "09/01" 
- :time  ["21:00","23:00"]} 
- 
-{:name "Cool parks & free samples walk" 
- :location "Depart from pika / Cambridgeport" 
- :description "Cambridge has some cool parks and some places to find free food. Partake in this urban crawl with one or more curly-haired pikans." 
- :date "09/02" 
- :time  ["12:00","14:00"]} 
- 
-{:name "Make ice cream" 
- :location "Kitchen" 
- :description "We have an ice cream maker. You love ice cream. This is the beginning of a beautiful friendship." 
- :date "09/02" 
- :time  ["15:00","16:00"]} 
- 
-{:name "Bzzz! Spelling Bee: a tribute to what was Bexley" 
- :location "Dining room" 
- :description "It's a spelling bee. For real. There will be a panel of highly trained judges and an etymology dictionary on hand for you intense spellers. If you want, may include a tour of our real-life honeybee hive and a tasting of their honeycomb! Don't worry, they're friendly." 
- :date "09/02" 
- :time  ["16:00","17:00"]} 
- 
-{:name "Hair Dyeing & Hair Cutting" 
- :location "Dining room" 
- :description "Modify one or more hairs on your head. We will help you realize your hair dream :)" 
- :date "09/02" 
- :time  ["17:00","19:00"]} 
- 
-{:name "Chicken care & chicken cuddling" 
- :location "Back yard" 
- :description "pika is home to a flock of lovable hens. Come meet them and cuddle a real live chicken. Learn all about how to take care of chickens, and if you're lucky, taste one of their wonderful eggs!" 
- :date "09/02" 
- :time  ["18:00","19:00"]} 
- 
-{:name "Ristorante d'Italia Feast" 
- :location "Dining room" 
- :description "Dinner! Simply speaking, an extravaganza of Italian food. Come any time before 7pm if you want to help cook!" 
- :date "09/02" 
- :time  ["19:00","20:00"]} 
- 
-{:name "Poetry slam" 
- :location "Murph" 
- :description "Bring your favorite poetry books or your own poetry, or read some of ours!" 
- :date "09/02" 
- :time  ["21:00","23:00"]} 
- 
-{:name "Learn to spin" 
- :location "Back yard" 
- :description "Come learn how to spin a firestaff, poi, ropedart, etc. like a pro! Three-beat weaves, conveyers, butterflies... No props required." 
- :date "09/02" 
- :time  ["20:00","23:00"]} 
- 
-{:name "Roll your own sushi!" 
- :location "Dining room" 
- :description "Roll your own (sushi)! No snacking before dinner time! We will provide all of the components: seasoned rice, seaweed, beautifully prepared vegetables, and, perhaps, raw dead fish..." 
- :date "09/03" 
- :time  ["17:00","19:00"]} 
- 
-{:name "Sushi Dinner" 
- :location "Dining room" 
- :description "Eat your own (sushi)! Usually our most popular rush event of the week." 
- :date "09/03" 
- :time  ["19:00","20:00"]} 
- 
-{:name "Tea Blending & Consumption Party" 
- :location "Dining room" 
- :description "Blend teas with pika's wonderful collection of herbs! Pick some aromatic leaves from the garden, if you want. Then, drink them right there on the spot. " 
- :date "09/03" 
- :time  ["20:00","23:00"]} 
- 
-{:name "Absurdist parlor games" 
- :location "Murph" 
- :description "Spin the cinderblock, This is not a pipe, and other classics." 
- :date "09/03" 
- :time  ["20:00","21:00"]} 
- 
-{:name "Trick or treat at pika" 
- :location "pika" 
- :description "Meet the friendly residents of pika, see what our unique rooms look like, and get hippie candy when you knock on each door! Scary costumes provided." 
- :date "09/04" 
- :time  ["17:00","19:00"]} 
- 
-{:name "Costume and Drag Dinner!" 
- :location "Dining room" 
- :description "Get dressed up in our Outrageous Clothing! Get your makeup done! You will look fabulous. Everyone is welcome at this dinner, dressed up or not! Come by early if you want to help cook!" 
- :date "09/04" 
- :time  ["19:00","20:00"]} 
- 
-{:name "Let's have a kiki!" 
- :location "Murph" 
- :description "pika is The Gay Agenda! This is The Big Rainbow Event Of The Week that you have all been waiting for! Talk about gay/queer stuff, politics, philosophy, and gossip. Meet some real life, certified homosexuals and many deviants of other various stripes. Everyone is welcome." 
- :date "09/04" 
- :time  ["20:00","23:00"]} 
- 
-{:name "Next to Godliness: Soap making" 
- :location "Dining room" 
- :description "Make eco-friendly all-purpose cleaner for you and your home! Do you like soap? Then this is the event for you!" 
- :date "09/05" 
- :time  ["17:00","19:00"]} 
- 
-{:name "Fancy Friday Feast" 
- :location "Dining room" 
- :description "We have extra-special dinners on Fridays. Come share our table with us. Celebrate the end of the first week of school! Come to pika before 7pm if you want to help cook!" 
- :date "09/05" 
- :time  ["19:00","20:00"]} 
- 
-{:name "Spa night!!!" 
- :location "Dining room" 
- :description "Relax from the rigors of school and refresh yourself with our homeopathic remedies and beauty treatments. Feel the power of coconut oil on your scalp and avocadoes on the smooth skin of your face. Relaaax!" 
- :date "09/05" 
- :time  ["20:00","23:00"]} 
- 
-{:name "Dinner & Show" 
- :location "Dining room, then Kresge Little Theater" 
- :description "Rush is technically over, but we would love to have you over for dinner and then go see MTG's production of Grease. Some of our very own are in the show!" 
- :date "09/06" 
- :time  ["19:00","22:00"]} 
- 
+Now you can make your bed and eat it, too. Come tuck some fall plants under the sheets. Whisper good night to garlic, shallots, and other beauties. Harvest the holy single zucchini growing in our backyard since July <3"
+ :date "09/01"
+ :time  ["12:00","14:00"]}
+
+{:name "Textile Experimentation"
+ :location "Dining room / Back porch"
+ :description "Knitting, crocheting, embroidery, oh my! Express yourself with string. We will be screen printing too - bring your own article of clothing if you want to screen print!"
+ :date "09/01"
+ :time  ["14:00","15:00"]}
+
+{:name "Firestaff making"
+ :location "Back porch"
+ :description "Patience you must have, my young Padawan. Learn how to build your very own firestaff!"
+ :date "09/01"
+ :time  ["15:00","19:00"]}
+
+{:name "Spoon carving"
+ :location "Back porch"
+ :description "Carve a wooden spoon."
+ :date "09/01"
+ :time  ["17:00","19:00"]}
+
+{:name "Chinese Stir Fry Feast"
+ :location "Dining room"
+ :description "Dinner! Come any time before 7pm if you want to help cook!"
+ :date "09/01"
+ :time  ["19:00","20:00"]}
+
+{:name "Jam session!"
+ :location "Murph"
+ :description "Bring your own instrument (BYOI) encouraged! Or, you can use some of ours! Sit back or lean forward and make some beautiful sounds together. No experience necessary."
+ :date "09/01"
+ :time  ["20:00","21:00"]}
+
+{:name "pikans on the Radio!"
+ :location "Depart from pika / WMBR Station"
+ :description "Come explore the wide world of college radio with your favorite cuddly pikans! Learn how to use a mixing board or just hear your voice/music on the air. Leave from pika at 9pm or meet us at WMBR in E50 at 9:45pm!"
+ :date "09/01"
+ :time  ["21:00","23:00"]}
+
+{:name "Cool parks & free samples walk"
+ :location "Depart from pika / Cambridgeport"
+ :description "Cambridge has some cool parks and some places to find free food. Partake in this urban crawl with one or more curly-haired pikans."
+ :date "09/02"
+ :time  ["12:00","14:00"]}
+
+{:name "Make ice cream"
+ :location "Kitchen"
+ :description "We have an ice cream maker. You love ice cream. This is the beginning of a beautiful friendship."
+ :date "09/02"
+ :time  ["15:00","16:00"]}
+
+{:name "Bzzz! Spelling Bee: a tribute to what was Bexley"
+ :location "Dining room"
+ :description "It's a spelling bee. For real. There will be a panel of highly trained judges and an etymology dictionary on hand for you intense spellers. If you want, may include a tour of our real-life honeybee hive and a tasting of their honeycomb! Don't worry, they're friendly."
+ :date "09/02"
+ :time  ["16:00","17:00"]}
+
+{:name "Hair Dyeing & Hair Cutting"
+ :location "Dining room"
+ :description "Modify one or more hairs on your head. We will help you realize your hair dream :)"
+ :date "09/02"
+ :time  ["17:00","19:00"]}
+
+{:name "Ristorante d'Italia Feast"
+ :location "Dining room"
+ :description "Dinner! Simply speaking, an extravaganza of Italian food. Come any time before 7pm if you want to help cook!"
+ :date "09/02"
+ :time  ["19:00","20:00"]}
+
+{:name "Poetry slam"
+ :location "Murph"
+ :description "Bring your favorite poetry books or your own poetry, or read some of ours!"
+ :date "09/02"
+ :time  ["21:00","23:00"]}
+
+{:name "Learn to spin"
+ :location "Back yard"
+ :description "Come learn how to spin a firestaff, poi, ropedart, etc. like a pro! Three-beat weaves, conveyers, butterflies... No props required."
+ :date "09/02"
+ :time  ["20:00","23:00"]}
+
+{:name "Roll your own sushi!"
+ :location "Dining room"
+ :description "Roll your own (sushi)! No snacking before dinner time! We will provide all of the components: seasoned rice, seaweed, beautifully prepared vegetables, and, perhaps, raw dead fish..."
+ :date "09/03"
+ :time  ["17:00","19:00"]}
+
+{:name "Sushi Dinner"
+ :location "Dining room"
+ :description "Eat your own (sushi)! Usually our most popular rush event of the week."
+ :date "09/03"
+ :time  ["19:00","20:00"]}
+
+{:name "Tea Blending & Consumption Party"
+ :location "Dining room"
+ :description "Blend teas with pika's wonderful collection of herbs! Pick some aromatic leaves from the garden, if you want. Then, drink them right there on the spot. "
+ :date "09/03"
+ :time  ["20:00","23:00"]}
+
+{:name "Absurdist parlor games"
+ :location "Murph"
+ :description "Spin the cinderblock, This is not a pipe, and other classics."
+ :date "09/03"
+ :time  ["20:00","21:00"]}
+
+{:name "Trick or treat at pika"
+ :location "pika"
+ :description "Meet the friendly residents of pika, see what our unique rooms look like, and get hippie candy when you knock on each door! Scary costumes provided."
+ :date "09/04"
+ :time  ["17:00","19:00"]}
+
+ {:name "Chicken care & chicken cuddling"
+ :location "Back yard"
+ :description "pika is home to a flock of lovable hens. Come meet them and cuddle a real live chicken. Learn all about how to take care of chickens, and if you're lucky, taste one of their wonderful eggs!"
+ :date "09/04"
+ :time  ["18:00","19:00"]}
+
+{:name "Costume and Drag Dinner!"
+ :location "Dining room"
+ :description "Get dressed up in our Outrageous Clothing! Get your makeup done! You will look fabulous. Everyone is welcome at this dinner, dressed up or not! Come by early if you want to help cook!"
+ :date "09/04"
+ :time  ["19:00","20:00"]}
+
+{:name "Let's have a kiki!"
+ :location "Murph"
+ :description "pika is The Gay Agenda! This is The Big Rainbow Event Of The Week that you have all been waiting for! Talk about gay/queer stuff, politics, philosophy, and gossip. Meet some real life, certified homosexuals and many deviants of other various stripes. Everyone is welcome."
+ :date "09/04"
+ :time  ["20:00","23:00"]}
+
+{:name "Next to Godliness: Soap making"
+ :location "Dining room"
+ :description "Make eco-friendly all-purpose cleaner for you and your home! Do you like soap? Then this is the event for you!"
+ :date "09/05"
+ :time  ["17:00","19:00"]}
+
+{:name "Fancy Friday Feast"
+ :location "Dining room"
+ :description "We have extra-special dinners on Fridays. Come share our table with us. Celebrate the end of the first week of school! Come to pika before 7pm if you want to help cook!"
+ :date "09/05"
+ :time  ["19:00","20:00"]}
+
+{:name "Spa night!!!"
+ :location "Dining room"
+ :description "Relax from the rigors of school and refresh yourself with our homeopathic remedies and beauty treatments. Feel the power of coconut oil on your scalp and avocadoes on the smooth skin of your face. Relaaax!"
+ :date "09/05"
+ :time  ["20:00","23:00"]}
+
+{:name "Dinner & Show"
+ :location "Dining room, then Kresge Little Theater"
+ :description "Rush is technically over, but we would love to have you over for dinner and then go see MTG's production of Grease. Some of our very own are in the show!"
+ :date "09/06"
+ :time  ["19:00","22:00"]}
+
 ]

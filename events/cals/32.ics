@@ -1,10 +1,8 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Tea Blending & Consumption Party
-DESCRIPTION:Blend teas with pika's wonderful collection of herbs! Pick some
-  aromatic leaves from the garden, if you want. Then, drink them right there
-  on the spot. 
+SUMMARY:Absurdist parlor games
+DESCRIPTION:Spin the cinderblock, This is not a pipe, and other classics.
 DTSTART:20140904T000000Z
-DTEND:20140904T030000Z
+DTEND:20140904T010000Z
 END:VEVENT
 END:VCALENDAR

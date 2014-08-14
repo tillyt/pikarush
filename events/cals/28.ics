@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-SUMMARY:Poetry slam
-DESCRIPTION:Bring your favorite poetry books or your own poetry, or read so
- me of ours!
-DTSTART:20140903T010000Z
+SUMMARY:Learn to spin
+DESCRIPTION:Come learn how to spin a firestaff, poi, ropedart, etc. like a 
+ pro! Three-beat weaves, conveyers, butterflies... No props required.
+DTSTART:20140903T000000Z
 DTEND:20140903T030000Z
 END:VEVENT
 END:VCALENDAR
